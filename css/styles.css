@@ -119,10 +119,12 @@ img {
 }
 .down-soc-box .text {
   font-weight: 500;
-  color: #ffffff;
   line-height: 1.5;
   letter-spacing: 0.02em;
   margin-bottom: 16px;
+}
+.down-line .container .down-soc-box .text {
+  color: #ffffff;
 }
 .soc-list-down {
   display: flex;
